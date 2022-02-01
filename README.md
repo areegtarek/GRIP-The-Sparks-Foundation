@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/46351336/151982007-c7a5564c-2b0d-4e12-bd15-03e6c863042b.png)
 # GRIP-The-Sparks-Foundation
 
 # All About GRIP
