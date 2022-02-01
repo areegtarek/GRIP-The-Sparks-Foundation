@@ -32,7 +32,8 @@ Recommendation Letter
 ![image](https://user-images.githubusercontent.com/46351336/151981102-7e6c217e-595a-4d1e-90a6-7bfdcb67cbd4.png)
 Workshops / guidance
 
-      Workshops and guidance sessions are conducted to help you improve the professional profile, interview skills and technical expertise.
+      Workshops and guidance sessions are conducted to help you improve the professional profile, interview 
+      skills and technical expertise.
 
 
 ![image](https://user-images.githubusercontent.com/46351336/151980907-0b2dc643-6802-4dc8-85f4-b9fff6f1da7b.png)
